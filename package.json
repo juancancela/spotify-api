@@ -1,0 +1,16 @@
+{
+  "name": "spotify-test-app-api",
+  "version": "1.0.0",
+  "description": "spotify-test-app-api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Juan Carlos Cancela <cancela.juancarlos@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.15.3",
+    "react-router-dom": "^4.1.2"
+  }
+}
